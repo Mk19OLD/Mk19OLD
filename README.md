@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi 👋, I'm Mercins Kiama
+
+## A passionate Software development from DR.Congo
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&width=435&lines=SOFTWARE+ENGINEER;FINTECH+ARCHITECT;INTEGRATEUR+DES+ERP;DATA+ANALYST)](https://git.io/typing-svg)
+<!--
+![Presentation de Mercins Kiama](https://mcusercontent.com/3b1a48411bf8cddb9d543fc90/images/3c0bcf1b-06bd-9b16-7745-3d9d68bc3f7f.png)
+-->
+## ✍️ Contributions
+- [x] # Nsandax (Implementation d'un ERP)
+- [x] # Makuta Transfert (Mise en place d'une plateforme de messaferie financière de transfert de fond entre Visa et Mobile Money / NATIONAL ET INTERNATIONAL.)
+- [x] # Vlisco (Plateforme de communication)
+- [x] # Orange DRC (Mise à niveau des infrastructures Microsoft (Active Directory, Exchange, File Server)
 
 <!--
 **Mk19OLD/Mk19OLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
