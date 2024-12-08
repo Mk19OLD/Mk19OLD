@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mercins Kiama
 
-## A passionate Software development from DR.Congo
+## A Passionate Software Developer And Architect
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&width=435&lines=SOFTWARE+ENGINEER;FINTECH+ARCHITECT;INTEGRATEUR+DES+ERP;DATA+ANALYST)](https://git.io/typing-svg)
 ![Presentation de Mercins Kiama](https://mcusercontent.com/3b1a48411bf8cddb9d543fc90/images/3c0bcf1b-06bd-9b16-7745-3d9d68bc3f7f.png)
